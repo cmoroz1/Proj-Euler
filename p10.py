@@ -1,18 +1,20 @@
+import time
+
+t= time.time()
+
 primes = []
 
-def isPrime(num, primes):
-	if(len(primes) == 0):
-		return True
-	for x in primes:
-		if(num%x == 0):
-			return False
-	return True
+limit = 2000000
+arr = [True]*limit
+def sieve(x):
+	global limit, arr
+	for i in range(x*2, limit, x):
+		arr[i] = False
+for x in range(2, limit//2):
+	sieve(x)
+primes = [i for i in range(2, limit) if arr[i]]
 
-total = 0
-
-for x in range(2, 2000001):
-	if(isPrime(x, primes)):
-		primes.append(x)
-		total += x
+total = sum(primes)
 
 print("\nThe sum of all primes below 2,000,000 is %d\n" % (total))
+print("Took %.3f seconds" % (time.time() - t))
