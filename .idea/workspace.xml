@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3ce710da-22b1-4c73-9cd4-61fb64bb9dda" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p10.py" afterPath="$PROJECT_DIR$/p10.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p3.py" afterPath="$PROJECT_DIR$/p3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p41.py" afterPath="$PROJECT_DIR$/p41.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p5.py" afterPath="$PROJECT_DIR$/p5.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p7.py" afterPath="$PROJECT_DIR$/p7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/p43.py" afterPath="$PROJECT_DIR$/p43.py" />
     </list>
     <ignored path="ProjEuler.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +23,97 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="p41.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p41.py">
+      <file leaf-file-name="p42.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p42.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+            <state relative-caret-position="302">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p43.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p43.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p44.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p44.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p45.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p45.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1471991030586" expanded="true" signature="59:167" ph="..." />
+                <marker date="1471991030586" expanded="true" signature="190:252" ph="..." />
+                <marker date="1471991030586" expanded="true" signature="277:340" ph="..." />
+                <marker date="1471991030586" expanded="true" signature="364:425" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p46.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p46.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p47.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p47.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p48.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p48.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p49.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p49.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p50.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p50.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,6 +144,15 @@
         <option value="$PROJECT_DIR$/p7.py" />
         <option value="$PROJECT_DIR$/p10.py" />
         <option value="$PROJECT_DIR$/p14.py" />
+        <option value="$PROJECT_DIR$/p42.py" />
+        <option value="$PROJECT_DIR$/p43.py" />
+        <option value="$PROJECT_DIR$/p44.py" />
+        <option value="$PROJECT_DIR$/p45.py" />
+        <option value="$PROJECT_DIR$/p46.py" />
+        <option value="$PROJECT_DIR$/p47.py" />
+        <option value="$PROJECT_DIR$/p48.py" />
+        <option value="$PROJECT_DIR$/p49.py" />
+        <option value="$PROJECT_DIR$/p50.py" />
       </list>
     </option>
   </component>
@@ -99,7 +187,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -146,8 +234,8 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.p41">
-    <configuration default="false" name="p11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.p50">
+    <configuration default="false" name="p46" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -159,12 +247,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="p12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="p47" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,12 +264,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p47.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="p13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="p48" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -193,12 +281,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p48.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="p14" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="p49" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -210,12 +298,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p49.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="p41" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="p50" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -227,7 +315,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjEuler" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p50.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -367,19 +455,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.p11" />
-      <item index="1" class="java.lang.String" itemvalue="Python.p12" />
-      <item index="2" class="java.lang.String" itemvalue="Python.p13" />
-      <item index="3" class="java.lang.String" itemvalue="Python.p14" />
-      <item index="4" class="java.lang.String" itemvalue="Python.p41" />
+      <item index="0" class="java.lang.String" itemvalue="Python.p46" />
+      <item index="1" class="java.lang.String" itemvalue="Python.p47" />
+      <item index="2" class="java.lang.String" itemvalue="Python.p48" />
+      <item index="3" class="java.lang.String" itemvalue="Python.p49" />
+      <item index="4" class="java.lang.String" itemvalue="Python.p50" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.p41" />
-        <item index="1" class="java.lang.String" itemvalue="Python.p14" />
-        <item index="2" class="java.lang.String" itemvalue="Python.p13" />
-        <item index="3" class="java.lang.String" itemvalue="Python.p12" />
-        <item index="4" class="java.lang.String" itemvalue="Python.p11" />
+        <item index="0" class="java.lang.String" itemvalue="Python.p50" />
+        <item index="1" class="java.lang.String" itemvalue="Python.p49" />
+        <item index="2" class="java.lang.String" itemvalue="Python.p48" />
+        <item index="3" class="java.lang.String" itemvalue="Python.p47" />
+        <item index="4" class="java.lang.String" itemvalue="Python.p46" />
       </list>
     </recent_temporary>
   </component>
@@ -401,14 +489,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1680" height="1002" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12145015" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2690992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22971429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23771429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -434,7 +522,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -443,7 +533,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -590,7 +680,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -624,8 +714,85 @@
         <state relative-caret-position="518">
           <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p42.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p43.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p44.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p45.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <marker date="1471991030586" expanded="true" signature="59:167" ph="..." />
+            <marker date="1471991030586" expanded="true" signature="190:252" ph="..." />
+            <marker date="1471991030586" expanded="true" signature="277:340" ph="..." />
+            <marker date="1471991030586" expanded="true" signature="364:425" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p46.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p47.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p48.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p49.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p50.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

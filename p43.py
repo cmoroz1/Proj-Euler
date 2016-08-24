@@ -23,7 +23,7 @@ print("Calculating total of pandigital & p43divisible numbers...")
 total = 0
 for x in lst:
     x = int("".join(x))
-    if(p43Divisible(x) and isPandigital(x)):
+    if(p43Divisible(x)):
         total += x
 
 print("The total is %d" % (total))
